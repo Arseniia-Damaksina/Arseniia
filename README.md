@@ -1,5 +1,5 @@
 # Welcome to Arseniia's Coding Universe
-**![Coding](code.jpg)**
+**![Coding](back.jpg)**
 
 ## 👋 About Me
 
